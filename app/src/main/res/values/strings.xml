@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meizhi</string>
+
+    <string name="home_str">首页</string>
+    <string name="list_str">列表</string>
+    <string name="user_str">我的</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:width="@dimen/space_01" />
+            <solid android:width="@dimen/space_01" android:color="#FFFFFF" />
+            <!-- 形状的填充色 -->
+            <stroke android:width="@dimen/space_01" android:color="#DFDFDF" />
+            <!-- 边框宽度和颜色 -->
+        </shape>
+    </item>
+
+
+</selector>
