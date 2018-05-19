@@ -22,10 +22,9 @@ net     ---  网络请求
 
 
 
-## 第三方库
+## 项目中采用的第三方库
   * [glide](https://github.com/bumptech/glide)
   * [Rxjava](https://github.com/ReactiveX/RxJava)
-  * [Glide](https://github.com/bumptech/glide)
   * [OkHttp](https://github.com/square/okhttp)
   * [retrofit](https://github.com/square/retrofit)
 
