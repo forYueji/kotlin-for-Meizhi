@@ -3,7 +3,7 @@ package com.example.hyp.meizhi.common
 import android.support.v4.view.PagerAdapter
 import android.view.View
 import android.view.ViewGroup
-import com.example.hyp.core.BaseLayout
+import com.example.hyp.meizhi.core.BaseLayout
 
 class ViewPagerAdapter(data: ArrayList<BaseLayout>) : PagerAdapter() {
 

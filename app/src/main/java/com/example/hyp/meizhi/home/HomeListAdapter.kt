@@ -12,7 +12,7 @@ import android.widget.TextView
 import com.bumptech.glide.Glide
 import com.example.hyp.core.BaseRecyclerAdapter
 import com.example.hyp.meizhi.R
-import com.example.hyp.meizhi.detail.DetailActivity
+import com.example.hyp.meizhi.detail.DetailActivityM
 import com.example.hyp.meizhi.home.bean.HomeData
 
 class HomeListAdapter(context: Context, data: List<HomeData>) : BaseRecyclerAdapter<HomeData,
@@ -30,9 +30,9 @@ class HomeListAdapter(context: Context, data: List<HomeData>) : BaseRecyclerAdap
 
         holder.mImageView.setOnClickListener {
 
-            val intent = Intent(context, DetailActivity::class.java)
+            val intent = Intent(context, DetailActivityM::class.java)
             val bundle = Bundle()
-            bundle.putString(DetailActivity.Key.KEY_URL_PAHE, mList[position].url)
+            bundle.putString(DetailActivityM.Key.KEY_URL_PAHE, mList[position].url)
             intent.putExtras(bundle)
             context.startActivity(intent)
         }

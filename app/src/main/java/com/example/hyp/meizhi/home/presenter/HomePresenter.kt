@@ -4,10 +4,8 @@ import android.content.Context
 import com.example.hyp.meizhi.home.bean.HomeData
 import com.example.hyp.net.BaseResult
 
-class HomePresenter(context: Context, var homeView: HomeContract.HomeView<HomeData>)
+class HomePresenter(var homeView: HomeContract.HomeView<HomeData>)
     : HomeContract.HomePresenter, HomeContract.HomeModel {
-
-    private var mContext: Context = context
 
     private var mHomeModel: HomeModel? = null
 
@@ -16,12 +14,13 @@ class HomePresenter(context: Context, var homeView: HomeContract.HomeView<HomeDa
             homeView.onError()
             return
         }
+        homeView.showLoading()
         mHomeModel!!.requestHomeListData()
     }
 
     override fun refreshHomeList() {
         if (null == mHomeModel) {
-            homeView!!.onError()
+            homeView.onError()
             return
         }
         mHomeModel!!.requestHomeListData()
@@ -33,10 +32,12 @@ class HomePresenter(context: Context, var homeView: HomeContract.HomeView<HomeDa
     }
 
     override fun results(data: BaseResult<HomeData>) {
+        homeView.cancelLoading()
         homeView.onNext(data)
     }
 
     override fun error() {
+        homeView.cancelLoading()
         homeView.onError()
     }
 

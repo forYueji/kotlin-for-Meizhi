@@ -38,7 +38,7 @@ abstract class BaseRecyclerAdapter<M, H : RecyclerView.ViewHolder>(
      * @return The total number of items in this adapter.
      */
     override fun getItemCount(): Int {
-        return if (null == mList) 0 else mList!!.size
+        return mList.size
     }
 
     /**
@@ -66,6 +66,6 @@ abstract class BaseRecyclerAdapter<M, H : RecyclerView.ViewHolder>(
 
 
     protected fun getStrings(resId: Int): String {
-        return if (null == context) "" else context!!.resources.getString(resId)
+        return this.context.resources.getString(resId)
     }
 }
