@@ -1,3 +1,3 @@
 package com.example.hyp.meizhi.home.bean
 
-data class HomeData(var url: String, var who: String, var source: String, var publishedAt: String )
+data class HomeData(var url: String, var desc: String, var type: String)

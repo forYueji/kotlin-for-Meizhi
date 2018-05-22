@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/space_6">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView_open_camera_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_background_colo_top_6"
+            android:gravity="center"
+            android:padding="@dimen/space_10"
+            android:text="保存"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_size_13" />
+
+        <View
+            android:background="@color/gray_light"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/space_01"/>
+
+        <TextView
+            android:id="@+id/textView_open_photo_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_background_color_bottm_6"
+            android:gravity="center"
+            android:padding="@dimen/space_10"
+            android:text="相机"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_size_13" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/space_8"
+        android:alpha="0.5">
+
+    </View>
+
+    <TextView
+        android:id="@+id/textView_picker_cancel_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_background_color_6"
+        android:gravity="center"
+        android:padding="@dimen/space_13"
+        android:text="取消"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/text_size_13" />
+
+</LinearLayout>

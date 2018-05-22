@@ -6,27 +6,28 @@ INJECTED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:2:1-36:
 INJECTED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:2:1-36:12
 MERGED from [:core] /Users/huangyaping/Meizhi/core/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:net] /Users/huangyaping/Meizhi/net/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:design:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b49e30cea997434d9d1c1230086b097c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/abc12abb35179e838833f9b33c993314/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/832a93fbcb6ccc6f87ae0d457a214bcb/AndroidManifest.xml:2:1-11:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/d464dd0a11247f4359da6973a9a6a173/AndroidManifest.xml:15:1-21:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/10728b1b8767fc326efb88dbc9f55cf3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/1bb88425a56cd31d225a92405ad20fc8/AndroidManifest.xml:2:1-13:12
-MERGED from [com.github.chrisbanes:PhotoView:2.1.3] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/PhotoView-2.1.3.aar/5f2090202a79830df3cff466c0f8d0a4/AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:support-v4:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/169bed9936a71e8f19d9a411b598a51e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fdae8ddc482270710aa026bfea37421c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/eb0f9bc4ce78419de46eeb88ad3556d5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d3e3aff7c13fb3af7eba3880b5911cf6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ff132549caa3af33669ad5d32deaaefe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0ebf260fe10d61298d472b85c1b96c6d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b6011b16e92baba7d232a0fb07f03ef6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8912b6cbb93cfc52f5c1bbe450abd89/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/035ce651a5e4ce5d0a212e9ed397cd52/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/8cc3f11c79bd51319caa4405c04500f3/AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/115e5d144c546439276f1276235dc250/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8cb006b11a7a72f1dbfd0c1e506ae954/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e473c1f4a1e6e88bf5df79d491b3e59/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0902553858430bf32fef55261dd2f003/AndroidManifest.xml:17:1-22:12
+MERGED from [com.liaoinstan.springview:library:1.3.2] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/dc775c4e9bb788237423c2a15feba905/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7ff0684d4369fb5f1a4cbafb5b3836cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/90d40b90951eb22d2a67f42f276299d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/49bd03870c66b50235d2844523207484/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3d80c7afefba591851e97e580cb828e0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/c31cb9a43968423ee1daa2d637db684d/AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/19bf6ba6d3aa92efb1eeaa3a162bc492/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/PhotoView-2.1.3.aar/53932e16b8da2d0d76381bc291ecf0d0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3ce810b2386796ab699c438ef5c432bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6e22fb2dca770f7a120b04ee0608a7d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0f8ac660ba1808b6c069517b82a8fea1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0b111cc9f9c53850c9d4ef013fc30218/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cc6302497616f294028efcffdd199255/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4bf4f612ae76a5fcaab7a1feea13615e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/826811c6a1cedd7174a040536529ccea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/846d9a2f95030b3d73ac76d22c4a5c9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3d95d60ccf9e19c6553831eb81ae738b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/41d99d9f3d0bed25321e181bf0205d77/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/42f38202b7754fe8df5412aae61093e4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4c930f5520c379eadfd69efefcb0aec7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0389c1fd3a3bb569e288c28a6a8aa795/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0ee4fa8aaab36a03bd5db3643c8011c6/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:2:1-36:12
@@ -52,16 +53,19 @@ ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:6:5-67
 		ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:6:22-64
 application
 ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:8:5-34:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/832a93fbcb6ccc6f87ae0d457a214bcb/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/832a93fbcb6ccc6f87ae0d457a214bcb/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/1bb88425a56cd31d225a92405ad20fc8/AndroidManifest.xml:11:5-20
-MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/1bb88425a56cd31d225a92405ad20fc8/AndroidManifest.xml:11:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/8cc3f11c79bd51319caa4405c04500f3/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/8cc3f11c79bd51319caa4405c04500f3/AndroidManifest.xml:9:5-20
+MERGED from [com.liaoinstan.springview:library:1.3.2] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/dc775c4e9bb788237423c2a15feba905/AndroidManifest.xml:11:5-15:19
+MERGED from [com.liaoinstan.springview:library:1.3.2] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/dc775c4e9bb788237423c2a15feba905/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/49bd03870c66b50235d2844523207484/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/49bd03870c66b50235d2844523207484/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/19bf6ba6d3aa92efb1eeaa3a162bc492/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/19bf6ba6d3aa92efb1eeaa3a162bc492/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/41d99d9f3d0bed25321e181bf0205d77/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/41d99d9f3d0bed25321e181bf0205d77/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:15:9-36
+		ADDED from [com.liaoinstan.springview:library:1.3.2] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/dc775c4e9bb788237423c2a15feba905/AndroidManifest.xml:14:9-35
 	android:label
 		ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:13:9-41
+		REJECTED from [com.liaoinstan.springview:library:1.3.2] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/dc775c4e9bb788237423c2a15feba905/AndroidManifest.xml:13:9-41
 	android:fullBackupContent
 		ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:11:9-41
 	tools:ignore
@@ -73,7 +77,9 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gra
 	android:allowBackup
 		ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:16:9-38
 	android:name
 		ADDED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml:9:9-42
 activity#com.example.hyp.meizhi.home.MainActivity
@@ -106,48 +112,50 @@ MERGED from [:core] /Users/huangyaping/Meizhi/core/build/intermediates/manifests
 MERGED from [:core] /Users/huangyaping/Meizhi/core/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:net] /Users/huangyaping/Meizhi/net/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:net] /Users/huangyaping/Meizhi/net/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b49e30cea997434d9d1c1230086b097c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b49e30cea997434d9d1c1230086b097c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/abc12abb35179e838833f9b33c993314/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/abc12abb35179e838833f9b33c993314/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/832a93fbcb6ccc6f87ae0d457a214bcb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/832a93fbcb6ccc6f87ae0d457a214bcb/AndroidManifest.xml:5:5-7:41
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/d464dd0a11247f4359da6973a9a6a173/AndroidManifest.xml:19:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/d464dd0a11247f4359da6973a9a6a173/AndroidManifest.xml:19:5-43
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/10728b1b8767fc326efb88dbc9f55cf3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/10728b1b8767fc326efb88dbc9f55cf3/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/1bb88425a56cd31d225a92405ad20fc8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/1bb88425a56cd31d225a92405ad20fc8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.chrisbanes:PhotoView:2.1.3] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/PhotoView-2.1.3.aar/5f2090202a79830df3cff466c0f8d0a4/AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.chrisbanes:PhotoView:2.1.3] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/PhotoView-2.1.3.aar/5f2090202a79830df3cff466c0f8d0a4/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:support-v4:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/169bed9936a71e8f19d9a411b598a51e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/169bed9936a71e8f19d9a411b598a51e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fdae8ddc482270710aa026bfea37421c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fdae8ddc482270710aa026bfea37421c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/eb0f9bc4ce78419de46eeb88ad3556d5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/eb0f9bc4ce78419de46eeb88ad3556d5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d3e3aff7c13fb3af7eba3880b5911cf6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d3e3aff7c13fb3af7eba3880b5911cf6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ff132549caa3af33669ad5d32deaaefe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ff132549caa3af33669ad5d32deaaefe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0ebf260fe10d61298d472b85c1b96c6d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0ebf260fe10d61298d472b85c1b96c6d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b6011b16e92baba7d232a0fb07f03ef6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b6011b16e92baba7d232a0fb07f03ef6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8912b6cbb93cfc52f5c1bbe450abd89/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8912b6cbb93cfc52f5c1bbe450abd89/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/035ce651a5e4ce5d0a212e9ed397cd52/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/035ce651a5e4ce5d0a212e9ed397cd52/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/8cc3f11c79bd51319caa4405c04500f3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/8cc3f11c79bd51319caa4405c04500f3/AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/115e5d144c546439276f1276235dc250/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/115e5d144c546439276f1276235dc250/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8cb006b11a7a72f1dbfd0c1e506ae954/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8cb006b11a7a72f1dbfd0c1e506ae954/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e473c1f4a1e6e88bf5df79d491b3e59/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e473c1f4a1e6e88bf5df79d491b3e59/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0902553858430bf32fef55261dd2f003/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0902553858430bf32fef55261dd2f003/AndroidManifest.xml:20:5-44
+MERGED from [com.liaoinstan.springview:library:1.3.2] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/dc775c4e9bb788237423c2a15feba905/AndroidManifest.xml:7:5-9:41
+MERGED from [com.liaoinstan.springview:library:1.3.2] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/dc775c4e9bb788237423c2a15feba905/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7ff0684d4369fb5f1a4cbafb5b3836cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7ff0684d4369fb5f1a4cbafb5b3836cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/90d40b90951eb22d2a67f42f276299d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/90d40b90951eb22d2a67f42f276299d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/49bd03870c66b50235d2844523207484/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/49bd03870c66b50235d2844523207484/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3d80c7afefba591851e97e580cb828e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3d80c7afefba591851e97e580cb828e0/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/c31cb9a43968423ee1daa2d637db684d/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/c31cb9a43968423ee1daa2d637db684d/AndroidManifest.xml:19:5-43
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/19bf6ba6d3aa92efb1eeaa3a162bc492/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/19bf6ba6d3aa92efb1eeaa3a162bc492/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/PhotoView-2.1.3.aar/53932e16b8da2d0d76381bc291ecf0d0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/PhotoView-2.1.3.aar/53932e16b8da2d0d76381bc291ecf0d0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3ce810b2386796ab699c438ef5c432bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3ce810b2386796ab699c438ef5c432bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6e22fb2dca770f7a120b04ee0608a7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6e22fb2dca770f7a120b04ee0608a7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0f8ac660ba1808b6c069517b82a8fea1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0f8ac660ba1808b6c069517b82a8fea1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0b111cc9f9c53850c9d4ef013fc30218/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0b111cc9f9c53850c9d4ef013fc30218/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cc6302497616f294028efcffdd199255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cc6302497616f294028efcffdd199255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4bf4f612ae76a5fcaab7a1feea13615e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4bf4f612ae76a5fcaab7a1feea13615e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/826811c6a1cedd7174a040536529ccea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/826811c6a1cedd7174a040536529ccea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/846d9a2f95030b3d73ac76d22c4a5c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/846d9a2f95030b3d73ac76d22c4a5c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3d95d60ccf9e19c6553831eb81ae738b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3d95d60ccf9e19c6553831eb81ae738b/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/41d99d9f3d0bed25321e181bf0205d77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/41d99d9f3d0bed25321e181bf0205d77/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/42f38202b7754fe8df5412aae61093e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/42f38202b7754fe8df5412aae61093e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4c930f5520c379eadfd69efefcb0aec7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4c930f5520c379eadfd69efefcb0aec7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0389c1fd3a3bb569e288c28a6a8aa795/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0389c1fd3a3bb569e288c28a6a8aa795/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0ee4fa8aaab36a03bd5db3643c8011c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/huangyaping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0ee4fa8aaab36a03bd5db3643c8011c6/AndroidManifest.xml:20:5-44
 INJECTED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml
 INJECTED from /Users/huangyaping/Meizhi/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

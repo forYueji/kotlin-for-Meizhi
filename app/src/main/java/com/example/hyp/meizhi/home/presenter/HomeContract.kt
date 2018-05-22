@@ -15,7 +15,7 @@ interface HomeContract {
 
         fun cancelLoading()
 
-        fun onNext(data: BaseResult<HomeData>)
+        fun onNext(data: List<HomeData>)
 
         fun onError()
     }
@@ -29,7 +29,7 @@ interface HomeContract {
 
     interface HomeModel {
 
-        fun results(data: BaseResult<HomeData>)
+        fun results(data: List<HomeData>)
 
         fun error()
 

@@ -2,21 +2,21 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 27
-
-
+    compileSdkVersion _compileSdkVersion
+    buildToolsVersion _buildToolsVersion
 
     defaultConfig {
-        minSdkVersion 17
-        targetSdkVersion 27
-        versionCode 1
-        versionName "1.0"
+        minSdkVersion _minSdkVersion
+        targetSdkVersion _targetSdkVersion
+
+        versionCode _versionCode
+        versionName _versionName
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
     }
 
-    
+
     buildTypes {
         release {
             minifyEnabled false

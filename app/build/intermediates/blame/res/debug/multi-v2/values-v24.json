@@ -4,7 +4,17 @@
             "outputFile": "/Users/huangyaping/Meizhi/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b6011b16e92baba7d232a0fb07f03ef6/res/values-v24/values-v24.xml",
+                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/90d40b90951eb22d2a67f42f276299d2/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/846d9a2f95030b3d73ac76d22c4a5c9a/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
-                    }
-                },
-                {
-                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/abc12abb35179e838833f9b33c993314/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
                     }
                 }
             ]

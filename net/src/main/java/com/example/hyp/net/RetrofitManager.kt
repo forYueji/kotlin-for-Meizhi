@@ -54,7 +54,7 @@ object RetrofitManager {
 
     private fun checkNull(msg: String, context: Context?) {
         if (null == context) {
-            throw NullPointerException(msg + "is null ?")
+            throw NullPointerException("""${msg}is null ?""")
         }
     }
 

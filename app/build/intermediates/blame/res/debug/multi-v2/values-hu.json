@@ -4,17 +4,7 @@
             "outputFile": "/Users/huangyaping/Meizhi/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
             "map": [
                 {
-                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/abc12abb35179e838833f9b33c993314/res/values-hu/values-hu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,1938",
-                        "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
-                        "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2016"
-                    }
-                },
-                {
-                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/035ce651a5e4ce5d0a212e9ed397cd52/res/values-hu/values-hu.xml",
+                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3d95d60ccf9e19c6553831eb81ae738b/res/values-hu/values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "2021",
                         "endColumns": "100",
                         "endOffsets": "2117"
+                    }
+                },
+                {
+                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/90d40b90951eb22d2a67f42f276299d2/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,1938",
+                        "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
+                        "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2016"
                     }
                 }
             ]

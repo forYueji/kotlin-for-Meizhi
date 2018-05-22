@@ -1,5 +1,6 @@
 package com.example.hyp.meizhi.home.presenter
 
+import com.example.hyp.meizhi.core.BaseObserver
 import com.example.hyp.meizhi.home.api.HomeAPI
 import com.example.hyp.meizhi.home.bean.HomeData
 import com.example.hyp.net.BaseResult
@@ -19,21 +20,19 @@ class HomeModel(model: HomeContract.HomeModel) {
                 .subscribeOn(Schedulers.io())
                 .unsubscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
-                .subscribe(object : Observer<BaseResult<HomeData>>{
-                    override fun onComplete() {
+                .subscribe(object : BaseObserver<HomeData>() {
+                    override fun onSuccess(bean: List<HomeData>) {
+                        mHomeModel.results(bean)
+                    }
+
+                    override fun completed() {
                         mHomeModel.complete()
                     }
 
-                    override fun onSubscribe(d: Disposable) {
-                    }
-
-                    override fun onNext(t: BaseResult<HomeData>) {
-                        mHomeModel.results(t)
-                    }
-
-                    override fun onError(e: Throwable) {
+                    override fun onFailure(code: String, msg: String) {
                         mHomeModel.error()
                     }
+
                 })
     }
 }

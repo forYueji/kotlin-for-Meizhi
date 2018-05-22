@@ -51,10 +51,10 @@ class HomePage(context: Context) : BaseLayout(context), HomeContract.HomeView<Ho
 
         mHomePresenter!!.requestHomeList()
 
-        val data1 = HomeData("http://ww4.sinaimg.cn/large/7a8aed7bjw1f1klhuc8w5j20d30h9gn8.jpg", "标题一  2017-05-26 我只是测试数据", "", "")
-        val data2 = HomeData("https://ws1.sinaimg.cn/large/d23c7564ly1fg6qckyqxkj20u00zmaf1.jpg", "标题二  2016-05-26 我只是测试数据", "", "")
-        val data3 = HomeData("https://ws1.sinaimg.cn/large/610dc034ly1fg5dany6uzj20u011iq60.jpg", "标题三 2017-02-16 我只是测试数据", "", "")
-        val data4 = HomeData("https://ws1.sinaimg.cn/large/610dc034ly1ffyp4g2vwxj20u00tu77b.jpg", "标题四 2015-01-01 我只是测试数据", "", "")
+        val data1 = HomeData("http://ww4.sinaimg.cn/large/7a8aed7bjw1f1klhuc8w5j20d30h9gn8.jpg", "标题一  2017-05-26 我只是测试数据", "")
+        val data2 = HomeData("https://ws1.sinaimg.cn/large/d23c7564ly1fg6qckyqxkj20u00zmaf1.jpg", "标题二  2016-05-26 我只是测试数据", "")
+        val data3 = HomeData("https://ws1.sinaimg.cn/large/610dc034ly1fg5dany6uzj20u011iq60.jpg", "标题三 2017-02-16 我只是测试数据", "")
+        val data4 = HomeData("https://ws1.sinaimg.cn/large/610dc034ly1ffyp4g2vwxj20u00tu77b.jpg", "标题四 2015-01-01 我只是测试数据", "")
 
         mBannerList.add(data1)
         mBannerList.add(data2)
@@ -78,8 +78,8 @@ class HomePage(context: Context) : BaseLayout(context), HomeContract.HomeView<Ho
     override fun cancelLoading() {
     }
 
-    override fun onNext(data: BaseResult<HomeData>) {
-        val mHomeAdapter = HomeListAdapter(mContext!!, data.results!!)
+    override fun onNext(data: List<HomeData>) {
+        val mHomeAdapter = HomeListAdapter(mContext!!, data)
         mRecyclerView.adapter = mHomeAdapter
     }
 

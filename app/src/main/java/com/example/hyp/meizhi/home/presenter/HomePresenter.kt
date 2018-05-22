@@ -31,7 +31,7 @@ class HomePresenter(var homeView: HomeContract.HomeView<HomeData>)
         mHomeModel = HomeModel(this)
     }
 
-    override fun results(data: BaseResult<HomeData>) {
+    override fun results(data: List<HomeData>) {
         homeView.cancelLoading()
         homeView.onNext(data)
     }

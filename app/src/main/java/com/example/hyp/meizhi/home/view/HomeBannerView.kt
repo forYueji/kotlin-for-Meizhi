@@ -19,7 +19,7 @@ class HomeBannerView : Holder<HomeData> {
             if (bean != null) {
                 Glide.with(context).load(bean.url).into(mImageView)
 
-                mTextView.text = bean.who
+                mTextView.text = bean.desc
             }
         }
     }

@@ -4,7 +4,7 @@
             "outputFile": "/Users/huangyaping/Meizhi/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
             "map": [
                 {
-                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/abc12abb35179e838833f9b33c993314/res/values-sw/values-sw.xml",
+                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/90d40b90951eb22d2a67f42f276299d2/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/035ce651a5e4ce5d0a212e9ed397cd52/res/values-sw/values-sw.xml",
+                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3d95d60ccf9e19c6553831eb81ae738b/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

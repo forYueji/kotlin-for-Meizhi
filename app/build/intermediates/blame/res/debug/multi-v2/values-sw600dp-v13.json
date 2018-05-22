@@ -4,7 +4,7 @@
             "outputFile": "/Users/huangyaping/Meizhi/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/abc12abb35179e838833f9b33c993314/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/90d40b90951eb22d2a67f42f276299d2/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b49e30cea997434d9d1c1230086b097c/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/Users/huangyaping/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7ff0684d4369fb5f1a4cbafb5b3836cd/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

@@ -26,7 +26,7 @@ class HomeListAdapter(context: Context, data: List<HomeData>) : BaseRecyclerAdap
     override fun onBindViewHolder(holder: HomeListViewHolder, position: Int) {
         Glide.with(context).load(mList[position].url).into(holder.mImageView)
 
-        holder.mNameView.text = mList[position].who
+        holder.mNameView.text = mList[position].desc + "__" + mList[position].type
 
         holder.mImageView.setOnClickListener {
 
